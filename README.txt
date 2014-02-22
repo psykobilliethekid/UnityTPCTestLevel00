@@ -9,7 +9,8 @@ Code referenced from Quill18Creates - Simple FPS Shooter Tutorial
 
 --Video #3: http://youtu.be/mHk21MHyuqI
 
-Pickup and Counter referenced Unity Roll-A-Ball Tutorial: --http://unity3d.com/learn/tutorials/projects/roll-a-ball
+Pickup and Counter referenced Unity Roll-A-Ball Tutorial: 
+--http://unity3d.com/learn/tutorials/projects/roll-a-ball
 
 
 ---Controls---
